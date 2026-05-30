@@ -1,8 +1,10 @@
-streamlit
-pandas
-numpy
+# 先安装编译工具（Spaces 通常已内置，但保险）
+# 无需修改，直接用这个精简版：
+numpy==1.26.4
+shap==0.44.0
 catboost
-shap==0.41.0
+pandas
 matplotlib
 joblib
 scikit-learn
+streamlit
