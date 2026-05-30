@@ -1,8 +1,10 @@
-numpy==1.23.5
-pandas==2.0.3
-catboost==1.2.2
-shap==0.41.0
-matplotlib==3.7.2
-joblib==1.3.2
-scikit-learn==1.3.0
-streamlit==1.28.0
+# 先安装编译工具（Spaces 通常已内置，但保险）
+# 无需修改，直接用这个精简版：
+numpy==1.26.4
+shap==0.44.0
+catboost
+pandas
+matplotlib
+joblib
+scikit-learn
+streamlit
